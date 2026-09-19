@@ -1,15 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E10600&height=100&section=header" width="100%"/>
 
 <div align="center">
 
-  
 ```
 ██████  ██████   █████   ██████ ██   ██ ██ 
 ██   ██ ██   ██ ██   ██ ██      ██   ██ ██ 
 ██████  ██████  ███████ ██      ███████ ██ 
 ██      ██   ██ ██   ██ ██      ██   ██ ██ 
 ██      ██   ██ ██   ██  ██████ ██   ██ ██ 
-                                           
+                                                                                         
 ```
 
 **B.Tech CSE · MIT World Peace University, Pune**
