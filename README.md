@@ -85,7 +85,7 @@ year     : Final Year (2023 – 2027)
 
 | Project | Stack | Link |
 |---------|-------|------|
-| Security Intelligence Platform | FastAPI · LangChain · Mistral · ChromaDB · Docker · Plotly | [→](https://github.com/prachi-shah07/security-intelligence-platform) |
+| Security Intelligence Platform | FastAPI · LangChain · Mistral · ChromaDB · Docker · Plotly | [→](https://github.com/prachi-shah07/Security-Intel-Platform) |
 | AI Document Risk Analyzer | Streamlit · LangChain · ChromaDB · Ollama | [→](https://github.com/prachi-shah07/ai-document-risk-analyzer) |
 | Adaptive Quiz Management System | Java · JSP · Servlets · JDBC · MySQL | [→](https://github.com/prachi-shah07/adaptive-quiz-management-system) |
 
